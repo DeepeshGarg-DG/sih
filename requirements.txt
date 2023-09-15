@@ -74,8 +74,6 @@ orjson==3.9.7
 pandas==2.1.0
 pathspec==0.11.2
 peft @ git+https://github.com/huggingface/peft.git@42a184f7423fc0bbc102a085851a8fb6e40132ad
-pexpect @ file:///home/conda/feedstock_root/build_artifacts/pexpect_1667297516076/work
-pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
 Pillow==10.0.0
 pip-requirements-parser==32.0.1
 pip-tools==7.3.0
